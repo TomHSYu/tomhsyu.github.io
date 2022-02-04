@@ -2,8 +2,8 @@
 layout: single
 permalink: /research/
 date:   2022-02-03 23:47:44 -0800
-title: ""
 ---
+
 ### Under Review
 
 ----------------
