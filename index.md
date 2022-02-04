@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-I am a third year PhD student in the [Political Economy program](https://www.gsb.stanford.edu/programs/phd/fields/political-economics) at the [Stanford Graduate School of Business](https://www.gsb.stanford.edu/).
+I am a third year PhD student in the [Political Economy program](https://www.gsb.stanford.edu/programs/phd/fields/political-economics) at the [Stanford Graduate School of Business](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/tom-hyeon-seok-yu).
 
 My research focuses on the interplay between information and individual (micro) behavior using game theory and cognitive psychology. On the empirical front, I use machine learning, natural language processing, and various causal inference methods to analyze the US politicians’ legislative behavior.  
 
