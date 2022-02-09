@@ -8,7 +8,7 @@ title: ""
 
 ----------------
 ### Working Papers
-+ <span style = "color: #8cd2d5"> Information and Motivated Reasoning</span> <br style="mso-data-placement:same-cell;" /> (Last Update: February 2022) [PDF](/files/SelectiveExposure_2022.pdf){: .btn .btn--warning .btn--small}
++ <span style = "color: #8cd2d5"> Information and Motivated Reasoning: A Model of Selective Exposure</span> <br style="mso-data-placement:same-cell;" /> (Last Update: February 2022) [PDF](/files/SelectiveExposure_2022.pdf){: .btn .btn--warning .btn--small}
     <details><summary style="font-size:75%;"><b>Abstract</b></summary>
     <blockquote style="font-size:75%;"> Previous research has consistently documented the prevalence of selective exposure, the tendency to seek out information that reinforces preexisting beliefs. Modeling individuals as motivated reasoners who face a tradeoff between the accuracy ("getting it right") and the directional ("reaching desired conclusions") motives, this paper develops a game-theoretic model that makes sense of seemingly inconsistent empirical findings by formally identifying conditions under which individuals, as receivers, engage in selective or cross-cutting exposure. When the information quality is uniform across individuals, selective exposure remains pervasive even in situations where the accuracy motive is high. Second, introducing  uncertainty to the sender's directional motive lowers the likelihood of exposure. Finally, the size of the gap in the perceived quality of information between the sender and the receiver, rather than the high credibility of the sender, largely determines the possibility of cross-cutting exposure. These results on selective exposure yield direct implications for persuasion and polarization.
     </blockquote>
