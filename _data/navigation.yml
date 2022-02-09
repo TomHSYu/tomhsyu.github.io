@@ -3,3 +3,4 @@ main:
     url: /research/
   - title: "CV"
     url: "/files/ResumeCV.pdf"
+    target: _blank
