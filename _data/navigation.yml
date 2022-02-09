@@ -1,5 +1,5 @@
 main:
   - title: "Research"
     url: /research/
-#   - title: "CV"
-#     url: "/files/ResumeCV.pdf"
+  - title: "CV"
+    url: "/files/ResumeCV.pdf"
