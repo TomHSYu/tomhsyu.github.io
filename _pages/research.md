@@ -5,15 +5,13 @@ date:   2022-03-13
 title: ""
 ---
 ### Under Review
-
-----------------
-### Working Papers
 + <span style = "color: #8cd2d5"> Information and Motivated Reasoning: A Model of Selective Exposure</span> <br style="mso-data-placement:same-cell;" /> (Last Update: March 2022) [PDF](/files/SelectiveExposure_2022.pdf){: .btn .btn--warning .btn--small}
     <details><summary style="font-size:85%;"><b>Abstract</b></summary>
     <blockquote style="font-size:85%;"> Previous research has documented the prevalence of selective exposure, the tendency to prefer and consume information that reinforces preexisting beliefs. Modeling individuals as motivated reasoners who face a tradeoff between accuracy (``getting it right”) and directional (``reaching desired conclusions”) motives, this paper develops a game-theoretic model that makes sense of seemingly inconsistent empirical findings by formally identifying conditions under which individuals, as receivers, engage in selective exposure. First, when the quality of information is uniform across individuals, selective exposure remains pervasive even in situations where the accuracy motive is high. Second, introducing uncertainty to the sender’s directional motive increases the likelihood of information avoidance. Finally, the size of the gap in the perceived quality of information between the sender and the receiver, rather than the high credibility of the sender, largely determines the possibility of exposure. These results on exposure decisions yield direct implications for persuasion and polarization.
     </blockquote>
     </details>
-
+----------------
+### Working Papers
 + <span style = "color: #8cd2d5"> Predicting Roll Call Votes using Machine Learning Methods</span> <br style="mso-data-placement:same-cell;" /> with *Floyd Jiuyun Zhang* (Last Update: December 2021) [PDF](/files/MachineLearning_2021.pdf){: .btn .btn--warning .btn--small}
     <details><summary style="font-size:85%;"><b>Abstract</b></summary>
     <blockquote style="font-size:85%;"> We present an approach for predicting roll-call votes in the U.S. Congress, using bill text word embedding as well as bill and Congress member characteristics as inputs. Various prediction models are implemented, tested and finally combined using ensemble stacking. Our methods yield higher accuracy than existing methods, especially for newly elected members of Congress.
