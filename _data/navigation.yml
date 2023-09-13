@@ -1,6 +1,6 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "CV"
-    url: "/files/ResumeCV_TomYu.pdf"
+  - title: "Resume"
+    url: "/files/Industry_Resume.pdf"
     target: _blank
