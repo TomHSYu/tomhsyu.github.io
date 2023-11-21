@@ -47,8 +47,8 @@ analytics:
 author:
   name             : "Tom Yu"
   avatar           : "files/HeadShot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Student at Stanford GSB"
-  location         : "Cupertino, CA"
+  bio              : "Ph.D. Candidate at Stanford GSB"
+  location         : "Sunnyvale, CA"
   email            :
   links:
     - label: "Email"
