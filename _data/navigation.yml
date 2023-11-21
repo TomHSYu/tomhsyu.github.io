@@ -1,4 +1,6 @@
 main:
+  - title: "Reviews"
+    url: /reviews/
   - title: "Research"
     url: /research/
   - title: "Resume"
