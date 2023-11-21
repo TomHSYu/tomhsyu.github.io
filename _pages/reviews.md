@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 permalink: /reviews/
 date:   2023-11-20
 title: "Non-Technical Reviews"
