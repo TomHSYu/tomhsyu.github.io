@@ -1,0 +1,12 @@
+---
+title: "Post-Bandit Inference: Adaptively Reweighted AIPW Estimator (Hadad et al. 2021)"
+categories:
+  - Article Review
+  - Technical Guide
+  - Python
+tags:
+  - Adaptive Experiment
+  - Inference
+  - AIPW 
+---
+This is where the review and guide for implementing the will be posted.  
