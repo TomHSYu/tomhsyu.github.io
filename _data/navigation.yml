@@ -3,8 +3,6 @@ main:
     url: /flaneur/
   - title: "Research"
     url: /research/
-  - title: "Reviews"
-    url: /reviews/
   - title: "Resume"
     url: "/files/Industry_Resume.pdf"
     target: _blank
