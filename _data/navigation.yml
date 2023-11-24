@@ -1,8 +1,11 @@
 main:
-  - title: "Reviews"
-    url: /reviews/
+  - title: "Tech Commentary"
+    url: /tech_repo/
   - title: "Research"
     url: /research/
+  - title: "Reviews"
+    url: /reviews/
+  - title: "Tutorials" 
   - title: "Resume"
     url: "/files/Industry_Resume.pdf"
     target: _blank
