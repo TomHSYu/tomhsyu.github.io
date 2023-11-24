@@ -5,7 +5,6 @@ main:
     url: /research/
   - title: "Reviews"
     url: /reviews/
-  - title: "Tutorials" 
   - title: "Resume"
     url: "/files/Industry_Resume.pdf"
     target: _blank
