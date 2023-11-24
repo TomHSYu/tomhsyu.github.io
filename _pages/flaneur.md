@@ -10,4 +10,4 @@ excerpt: "A technical repository of comments and practical implementation guides
 + <span style = "color: #8cd2d5"> Top-Two Thompson Sampling [Post]({% link _posts/2023-11-22-TTTS.md %}){: .btn .btn--success .btn--small} </span> 
 
 ## Causal Inference 
-+ <span style = "color: #8cd2d5"> Top-Two Thompson Sampling [Post]({% link _posts/2023-11-22-CI_Hadad.md %}){: .btn .btn--success .btn--small} </span> 
++ <span style = "color: #8cd2d5"> Post-Bandit Inference: Adaptively Re-weighted AIPW Estimator [Post]({% link _posts/2023-11-22-CI_Hadad.md %}){: .btn .btn--success .btn--small} </span> 
