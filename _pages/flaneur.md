@@ -12,16 +12,16 @@ This is a personal commitment device for the continued consumption of content re
 ## Technical Commentary with Implementation Guides
 
 ### Adaptive Experiments 
-+ <span style = "color: #8cd2d5"> Top-Two Thompson Sampling [Post]({% link _posts/2023-11-22-TTTS.md %}){: .btn .btn--success .btn--small} [Notebook](https://colab.research.google.com/drive/1yMlRU9PGMpx6Ey7LfG9oENSKwYV5HxvO?usp=sharing){: .btn .btn--warning .btn--small} </span> 
++ <span style = "color: #FFFFFF"> Top-Two Thompson Sampling: Theoretical Properties and Applications [Post]({% link _posts/2023-11-22-TTTS.md %}){: .btn .btn--success .btn--small} [Colab Notebook](https://colab.research.google.com/drive/1yMlRU9PGMpx6Ey7LfG9oENSKwYV5HxvO?usp=sharing){: .btn .btn--warning .btn--small} </span> 
 
 ### Causal Inference 
-+ <span style = "color: #8cd2d5"> Post-Bandit Inference: Adaptively Re-weighted AIPW Estimator [Post]({% link _posts/2023-11-22-CIHadad.md %}){: .btn .btn--success .btn--small} </span>
++ <span style = "color: #FFFFFF"> Post-Bandit Inference: Adaptively Re-weighted AIPW Estimator [Post]({% link _posts/2023-11-22-CIHadad.md %}){: .btn .btn--success .btn--small} </span>
 
 ---
 
 ## Non-Technical Reviews 
 
 ### Book Reviews 
-+ <span style = "color: #8cd2d5"> *[The Master Switch](https://www.amazon.com/Master-Switch-Information-Empires-Borzoi/dp/0307269930/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)* by Tim Wu (TBA: 12/14/23) [Post]({% link _posts/2023-11-14-master-switch.md %}){: .btn .btn--success .btn--small} </span>
++ <span style = "color: #FFFFFF"> *[The Master Switch](https://www.amazon.com/Master-Switch-Information-Empires-Borzoi/dp/0307269930/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)* by Tim Wu (TBA: 12/14/23) [Post]({% link _posts/2023-11-14-master-switch.md %}){: .btn .btn--success .btn--small} </span>
 
 ### News Article/Op-Ed Reviews 
