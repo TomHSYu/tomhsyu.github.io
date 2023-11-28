@@ -12,7 +12,7 @@ This is a personal commitment device for the continued consumption of content re
 ## Technical Commentary with Implementation Guides
 
 ### Adaptive Experiments 
-+ <span style = "color: #FFFFFF"> Top-Two Thompson Sampling: Theoretical Properties and Applications [Post]({% link _posts/2023-11-22-TTTS.md %}){: .btn .btn--success .btn--small}{:target="_blank"} [Colab Notebook](https://colab.research.google.com/drive/1yMlRU9PGMpx6Ey7LfG9oENSKwYV5HxvO?usp=sharing){: .btn .btn--warning .btn--small}{:target="_blank"} </span> 
++ <span style = "color: #FFFFFF"> Top-Two Thompson Sampling: Theoretical Properties and Applications [Post]({% link _posts/2023-11-27-TTTS.md %}){: .btn .btn--success .btn--small}{:target="_blank"} [Colab Notebook](https://colab.research.google.com/drive/1yMlRU9PGMpx6Ey7LfG9oENSKwYV5HxvO?usp=sharing){: .btn .btn--warning .btn--small}{:target="_blank"} </span> 
 
 ### Causal Inference 
 + <span style = "color: #FFFFFF"> Post-Bandit Inference: Adaptively Re-weighted AIPW Estimator [Post]({% link _posts/2023-11-22-CIHadad.md %}){: .btn .btn--success .btn--small}{:target="_blank"} </span>
