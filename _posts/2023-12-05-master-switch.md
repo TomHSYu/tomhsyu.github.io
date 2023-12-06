@@ -7,6 +7,7 @@ tags:
   - Tim Wu
   - Tech Industry
   - Internet
+toc: true
 ---
 # Looking Back at the Internet
 
