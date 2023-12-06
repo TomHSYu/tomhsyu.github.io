@@ -35,6 +35,11 @@ plugins:
   - jekyll-include-cache
   - jekyll-titles-from-headings
 minimal_mistakes_skin: "dark"
+comments:
+  provider               : "disqus"
+  disqus:
+    shortname            : "tomhsyu" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+
 
 # Analytics
 analytics:
