@@ -1,6 +1,5 @@
 ---
 layout: default
-comments: true
 ---
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
@@ -64,7 +63,8 @@ comments: true
       {% include comments.html %}
     {% endif %}
   </article>
-
+  {% include disqus.html %}
+  
   {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
     <div class="page__related">
