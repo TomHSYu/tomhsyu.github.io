@@ -22,6 +22,6 @@ This is a personal commitment device for the continued consumption of content re
 ## Non-Technical Reviews 
 
 ### Book Reviews 
-+ <span style = "color: #FFFFFF"> *[The Master Switch](https://www.amazon.com/Master-Switch-Information-Empires-Borzoi/dp/0307269930/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)* by Tim Wu (TBA: 12/14/23) [Post]({% link _posts/2023-11-14-master-switch.md %}){: .btn .btn--success .btn--small}{:target="_blank"} </span>
++ <span style = "color: #FFFFFF"> *[The Master Switch](https://www.amazon.com/Master-Switch-Information-Empires-Borzoi/dp/0307269930/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)* by Tim Wu [Post]({% link _posts/2023-12-05-master-switch.md %}){: .btn .btn--success .btn--small}{:target="_blank"} </span>
 
 ### News Article/Op-Ed Reviews 
