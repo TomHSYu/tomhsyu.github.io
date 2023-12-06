@@ -8,6 +8,7 @@ tags:
   - Tech Industry
   - Internet
 toc: true
+comments: true
 ---
 # Looking Back at the Internet
 
