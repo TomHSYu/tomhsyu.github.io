@@ -19,7 +19,7 @@ Is the Internet different? Written in the context of the ever-expanding role of 
 
 <p align="center">
 <a href="https://github.com/TomHSYu/tomhsyu.github.io/blob/gh-pages/files/blog_posts/Masterswitch_Cycle.png?raw=true" target="_blank">
-<img width="33%" align="center" src="https://github.com/TomHSYu/tomhsyu.github.io/blob/gh-pages/files/blog_posts/Masterswitch_Cycle.png?raw=true">
+<img width="66%" align="center" src="https://github.com/TomHSYu/tomhsyu.github.io/blob/gh-pages/files/blog_posts/Masterswitch_Cycle.png?raw=true">
 </a>
 </p>
 
@@ -38,7 +38,7 @@ Moving onto the companies, one notable issue with the status of near-monopoly pe
   <p>
     AT&T, as an innovator, bore a serious genetic flaw: it could not originate technologies that might threaten the Bell system… the Bell Labs was practically restricted to sustaining inventions; disruptive technologies, those that might even cast a shadow of uncertainty over the business model, were simply out of the question.
   </p>
-  <footer>-Tim Wu, <cite>The Master Switch, p. 107</cite> </footer>
+  <cite>Tim Wu, The Master Switch, p. 107</cite>
 </blockquote>
 This flaw was rather costly, as it would take another 17 years for the answering machine to reach consumers.
 
@@ -50,7 +50,7 @@ In sum, I delved into recurring patterns on the consumer and the industry sides 
   <p>
 There is a dark underbelly to the diversity of content and services that the Internet has brought us, one that leaves it more vulnerable to centralization, not less…The prospect of a new imperial age, even if only partially visible now, seems to me as likely as it ever has been at this point in the Cycle. This time *is* different: with everything on one network, the potential power to control is so much greater.
   </p>
-  <footer>-Tim Wu, <cite>The Master Switch, p. 318</cite> </footer>
+  <cite>Tim Wu, The Master Switch, p. 318</cite>
 </blockquote>
 ---
 
