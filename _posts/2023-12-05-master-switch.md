@@ -1,5 +1,7 @@
 ---
 title: "Review of *The Master Switch* by Tim Wu"
+header:
+  teaser: /files/blog_posts/Masterswitch_Cycle.png
 categories:
   - Book Reviews
 tags:
@@ -8,7 +10,7 @@ tags:
   - Tech Industry
   - Internet
 toc: true
-comments: true
+toc_label: "Content"
 ---
 # Looking Back at the Internet
 
