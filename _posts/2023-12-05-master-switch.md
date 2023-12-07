@@ -13,7 +13,7 @@ tags:
 toc: true
 toc_label: "Content"
 ---
-# Looking Back at the Internet
+# Remains of the Information Empires
 
 ### Summary 
 In this post, I revisit the question Tim Wu raised 13 years ago about the Internet: are dominant IT entities today distinguishable from their predecessors who followed a common pattern of rise and fall? Rather than listing and weighing cases for and against the question, I focus on the implications (“so what”) of pondering this question in the context of noticeable advancements in AI.  
