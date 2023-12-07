@@ -17,11 +17,11 @@ toc_sticky: true
 # Remains of the Information Empires
 
 ### Summary 
-In this post, I revisit the question Tim Wu raised 13 years ago about the Internet: are dominant IT entities today distinguishable from their predecessors who followed a common pattern of rise and fall? Rather than listing and weighing cases for and against the question, I focus on the implications (“so what”) of pondering this question in the context of noticeable advancements in AI.  
+In this post, I revisit the question Tim Wu raised 13 years ago about the Internet: are dominant IT entities today distinguishable from their predecessors who followed a common pattern of rise and fall? Rather than listing and weighing cases for and against the question, I focus on related patterns we see from the public and the companies that will likely persist in the current context of noticeable advancements in AI.  
 
 ---
 
-Is the Internet different? Written in the context of the ever-expanding role of the Internet, Tim Wu’s historical analysis of monumental shifts in the information technology industries addresses whether the Internet will stand apart from the repeated trends we see with its predecessors – telephone, radio, TV, and cable. In particular, the cycle below summarizes the rise and fall of the titans that held near-exclusive power over the defining technologies of their time:  
+Is the Internet different? Written in the context of the ever-expanding role of the Internet, Tim Wu’s historical analysis of monumental shifts in the information technology industries addresses whether the Internet will stand apart from its predecessors - telephone, radio, TV, and cable - in defying the trends set by the latter. In particular, the cycle below summarizes the rise and fall of the titans that held near-exclusive power over the defining technologies of their time:  
 
 <p align="center">
 <a href="https://github.com/TomHSYu/tomhsyu.github.io/blob/gh-pages/files/blog_posts/Masterswitch_Cycle.png?raw=true" target="_blank">
