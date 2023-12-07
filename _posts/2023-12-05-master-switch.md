@@ -12,6 +12,7 @@ tags:
   - Internet
 toc: true
 toc_label: "Content"
+toc_sticky: true
 ---
 # Remains of the Information Empires
 
