@@ -2,6 +2,7 @@
 title: "Review of *The Master Switch* by Tim Wu"
 header:
   teaser: /files/blog_posts/Masterswitch_Cycle.png
+excerpt: "A non-technical review of book *The Master Switch* by Tim Wu"
 categories:
   - Book Reviews
 tags:
