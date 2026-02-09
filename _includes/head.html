@@ -17,6 +17,7 @@
 <!-- For all browsers -->
 <!-- Critical CSS to prevent layout shift / flicker on navigation -->
 <style>
+  /* Avatar styles to prevent image flash */
   .author__avatar {
     display: table-cell;
     vertical-align: top;
@@ -35,6 +36,39 @@
       width: auto;
       height: auto;
     }
+  }
+
+  /* Navigation styles to prevent hamburger menu flash */
+  .greedy-nav {
+    display: flex;
+    align-items: center;
+    min-height: 2.4em;
+  }
+
+  .greedy-nav__toggle.hidden {
+    display: none;
+  }
+
+  .hidden-links.hidden {
+    display: none;
+  }
+
+  .visible-links {
+    display: flex;
+    justify-content: flex-end;
+    flex: 1;
+    overflow: hidden;
+  }
+
+  .visible-links li {
+    flex: none;
+    list-style: none;
+  }
+
+  .masthead__menu-item {
+    display: block;
+    list-style-type: none;
+    white-space: nowrap;
   }
 </style>
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" id="theme-style">
