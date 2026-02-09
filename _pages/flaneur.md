@@ -9,19 +9,21 @@ excerpt: "A repository of practical implementation guides with reproducible code
 
 This is a personal commitment device for the continued consumption of content relevant to data science practitioners/researchers and for honing the craft of writing. 
 
-## Technical Commentary with Implementation Guides
+## Non-Technical Reviews 
 
-### Adaptive Experiments 
-+ <span style = "color: #FFFFFF"> Top-Two Thompson Sampling: Theoretical Properties and Applications [Post]({% link _posts/2023-11-27-TTTS.md %}){: .btn .btn--success .btn--small}{:target="_blank"} [Colab Notebook](https://colab.research.google.com/drive/1yMlRU9PGMpx6Ey7LfG9oENSKwYV5HxvO?usp=sharing){: .btn .btn--warning .btn--small}{:target="_blank"} </span> 
+### Otium Path Op-Eds
++ Feb'26 Week 2 - The Xi Purge: Zhang Youxia, Taiwan, and the Semiconductor Endgame [Post]({% link _posts/2026-02-02-toms-take-week-2.md %}){: .btn .btn--success .btn--small}
 
-### Causal Inference 
-+ <span style = "color: #FFFFFF"> Post-Bandit Inference: Adaptively Re-weighted AIPW Estimator [Post]({% link _posts/2023-11-22-CIHadad.md %}){: .btn .btn--success .btn--small}{:target="_blank"} </span>
+### Book Reviews 
++ Remains of the Information Empires: Review of *[The Master Switch](https://www.amazon.com/Master-Switch-Information-Empires-Borzoi/dp/0307269930/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)* by Tim Wu [Post]({% link _posts/2023-12-05-master-switch.md %}){: .btn .btn--success .btn--small}
 
 ---
 
-## Non-Technical Reviews 
+## Technical Commentary with Implementation Guides
 
-### Book Reviews 
-+ <span style = "color: #FFFFFF"> Remains of the Information Empires: Review of *[The Master Switch](https://www.amazon.com/Master-Switch-Information-Empires-Borzoi/dp/0307269930/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)* by Tim Wu [Post]({% link _posts/2023-12-05-master-switch.md %}){: .btn .btn--success .btn--small}{:target="_blank"} </span>
+### Adaptive Experiments 
++ Top-Two Thompson Sampling: Theoretical Properties and Applications [Post]({% link _posts/2023-11-27-TTTS.md %}){: .btn .btn--success .btn--small} [Colab Notebook](https://colab.research.google.com/drive/1yMlRU9PGMpx6Ey7LfG9oENSKwYV5HxvO?usp=sharing){: .btn .btn--warning .btn--small}
+ 
 
-### News Article/Op-Ed Reviews 
+### Causal Inference 
++ Post-Bandit Inference: Adaptively Re-weighted AIPW Estimator [Post]({% link _posts/2023-11-22-CIHadad.md %}){: .btn .btn--success .btn--small}

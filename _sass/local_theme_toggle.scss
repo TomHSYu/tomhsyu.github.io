@@ -1,0 +1,79 @@
+.theme-toggle-wrapper {
+    position: relative;
+    display: inline-block;
+    margin-left: 1rem;
+}
+
+.theme-toggle-btn {
+    background: none;
+    border: none;
+    color: inherit;
+    cursor: pointer;
+    font-size: 1rem;
+    padding: 0.5rem;
+    opacity: 0.7;
+    transition: opacity 0.2s ease-in-out;
+
+    &:hover {
+        opacity: 1;
+    }
+}
+
+.theme-menu {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    display: none; // Hidden by default
+    z-index: 100;
+    min-width: 100px;
+
+    &.visible {
+        display: block;
+    }
+
+    button {
+        display: block;
+        width: 100%;
+        text-align: left;
+        background: none;
+        border: none;
+        padding: 0.5rem 1rem;
+        cursor: pointer;
+        color: #333; // Default text color
+
+        &:hover {
+            background-color: #f0f0f0;
+        }
+
+        &.active {
+            font-weight: bold;
+            background-color: #e0e0e0;
+        }
+    }
+}
+
+// Dark mode overrides for the menu itself
+// Assuming the parent context might change or we handle it here
+// Dark mode overrides for the menu itself
+// Assuming the parent context might change or we handle it here
+.dark .theme-menu {
+    background-color: #252a34;
+    border-color: #444;
+
+    button {
+        color: #ccc;
+
+        &:hover {
+            background-color: #333;
+        }
+
+        &.active {
+            background-color: #444;
+            color: #fff; // Highlight active selection
+        }
+    }
+}

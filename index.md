@@ -3,10 +3,6 @@ layout: single
 author_profile: true
 ---
 
-I am a Ph.D. candidate in the [Political Economy program](https://www.gsb.stanford.edu/programs/phd/fields/political-economics) at the [Stanford Graduate School of Business](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/tom-hyeon-seok-yu).
+I am an economist applying causal inference and machine learning to high-stakes business problems in multi-sided markets at [AWS](https://aws.amazon.com/economics/){:target="_blank"}. I specialize in designing rigorous measurement frameworks—Difference-in-Differences, synthetic control, propensity score weighting, CLV, and transformer-based causal inference framework—to quantify program impact and guide strategic decisions. You can find more details on my [LinkedIn profile](https://www.linkedin.com/in/tom-hs-yu/){:target="_blank"}.
 
-My research focuses on the interplay between information and political preference based on game theory and behavioral political economy. On the empirical front, I use machine (reinforcement) learning methods for implementing adaptive experiments and various causal inference methods to analyze survey experiments and observational data on the US Congress.  
-
-During graduate study, I worked on data science problems at [Netflix](https://research.netflix.com/research-area/experimentation-and-causal-inference). I received my masters in Statistics from the [Department of Statistics](https://statistics.stanford.edu/graduate-programs/statistics-ms) at Stanford in 2023, where I focused on causal inference methods for observational panel data, experimental design, and stochastic processes.  
-
-Prior to joining GSB, I worked at [Analysis Group](https://www.analysisgroup.com/). I graduated from Middlebury College in 2016 with a B.A in economics and a minor in political science.  
+I hold a Ph.D. in Political Economy from the [Stanford Graduate School of Business](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/tom-hyeon-seok-yu){:target="_blank"} and a Master's in Statistics from [Stanford University](https://statistics.stanford.edu/graduate-programs/statistics-ms){:target="_blank"}. My research spanned best-arm identification in multi-armed experiments and survey experiments on political behavior. Prior to my current role, I worked on data science problems at Netflix and Tesla.

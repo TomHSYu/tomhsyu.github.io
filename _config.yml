@@ -21,20 +21,20 @@
 title: Tom (Hyeon Seok) Yu
 email: tom.hs.yu@stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal Webpage of Tom Yu
+  economist at AWS. Personal Webpage of Tom Yu
 # baseurl: /about # the subpath of your site, e.g. /blog
 url: https://www.tomhsyu.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-# theme: minimal-mistakes-jekyll
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
+# remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-titles-from-headings
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "default"
 comments:
   provider               : disqus
   disqus:
@@ -52,7 +52,7 @@ analytics:
 author:
   name             : "Tom Yu"
   avatar           : "files/HeadShot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Candidate at Stanford GSB"
+  bio              : "Economist at Amazon Web Services"
   location         : "Sunnyvale, CA"
   email            :
   links:
