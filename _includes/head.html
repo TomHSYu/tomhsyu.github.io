@@ -15,6 +15,28 @@
 </script>
 
 <!-- For all browsers -->
+<!-- Critical CSS to prevent layout shift / flicker on navigation -->
+<style>
+  .author__avatar {
+    display: table-cell;
+    vertical-align: top;
+    width: 36px;
+    height: 36px;
+  }
+
+  .author__avatar img {
+    max-width: 200px;
+    border-radius: 0%;
+  }
+
+  @media (min-width: 64em) {
+    .author__avatar {
+      display: block;
+      width: auto;
+      height: auto;
+    }
+  }
+</style>
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" id="theme-style">
 <script>
   (function () {

@@ -11,7 +11,7 @@ This is a personal commitment device for the continued consumption of content re
 
 ## Non-Technical Reviews 
 
-### Otium Path Op-Eds
+### [OtiumPath](https://otium.asymmetria.ai/){:target="_blank"}
 + Feb'26 Week 2 - The Xi Purge: Zhang Youxia, Taiwan, and the Semiconductor Endgame [Post]({% link _posts/2026-02-02-toms-take-week-2.md %}){: .btn .btn--success .btn--small}
 
 ### Book Reviews 
