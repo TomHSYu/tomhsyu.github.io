@@ -12,6 +12,7 @@ This is a personal commitment device for the continued consumption of content re
 ## Non-Technical Reviews 
 
 ### [OtiumPath](https://otium.asymmetria.ai/){:target="_blank"}
++ Feb'26 Week 3 - When AI Automates Your Tasks, What Remains Determines Your Fate [Post]({% link _posts/2026-02-15-toms-take-week-3.md %}){: .btn .btn--success .btn--small}
 + Feb'26 Week 2 - The Xi Purge: Zhang Youxia, Taiwan, and the Semiconductor Endgame [Post]({% link _posts/2026-02-02-toms-take-week-2.md %}){: .btn .btn--success .btn--small}
 
 ### Book Reviews 
