@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tom (Hyeon Seok) Yu
-email: tom.hs.yu@stanford.edu
+email: thyu538@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   economist at AWS. Personal Webpage of Tom Yu
 # baseurl: /about # the subpath of your site, e.g. /blog
@@ -58,7 +58,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:tom.hs.yu@stanford.edu"
+      url: "mailto:thyu538@gmail.com"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://tomyu.github.io"

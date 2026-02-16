@@ -15,8 +15,42 @@
 </script>
 
 <!-- For all browsers -->
-<!-- Critical CSS to prevent layout shift / flicker on navigation -->
+<!-- Critical CSS to prevent FOUC (Flash of Unstyled Content) -->
+<script>
+  (function () {
+    var savedTheme = localStorage.getItem('theme') || 'system';
+    var systemDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    var shouldBeDark = (savedTheme === 'dark') || (savedTheme === 'system' && systemDark);
+
+    if (shouldBeDark) {
+      document.documentElement.style.background = '#252a34';
+      document.documentElement.classList.add('dark');
+    }
+    // Store for later use by the stylesheet link
+    window.__shouldBeDark = shouldBeDark;
+  })();
+</script>
 <style>
+  /* Hide skip-links to prevent them from flashing as visible text */
+  .skip-links {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+  }
+
+  .screen-reader-shortcut {
+    position: absolute;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0;
+  }
+
   /* Avatar styles to prevent image flash */
   .author__avatar {
     display: table-cell;
@@ -74,17 +108,7 @@
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" id="theme-style">
 <script>
   (function () {
-    const savedTheme = localStorage.getItem('theme') || 'system';
-    const systemDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    let shouldBeDark = false;
-
-    if (savedTheme === 'dark') {
-      shouldBeDark = true;
-    } else if (savedTheme === 'system' && systemDark) {
-      shouldBeDark = true;
-    }
-
-    if (shouldBeDark) {
+    if (window.__shouldBeDark) {
       document.getElementById('theme-style').href = '{{ "/assets/css/dark.css" | relative_url }}';
     }
   })();
