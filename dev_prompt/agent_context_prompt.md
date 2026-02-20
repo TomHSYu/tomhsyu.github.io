@@ -13,7 +13,7 @@
 - **Navigation Links**:
   - Flâneuring (/flaneur/)
   - Research (/research/)
-  - Resume (/files/Industry_Resume_Jan2026.pdf)
+  - Resume (/files/Industry_Resume_Feb2026.pdf)
 - **Main Page Content**:
   - Economist at AWS applying causal inference and machine learning to high-stakes business problems.
   - Research: interplay between information and political preference, game theory, behavioral political economy.
