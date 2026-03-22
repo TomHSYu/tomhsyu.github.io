@@ -12,6 +12,7 @@ This is a personal commitment device for the continued consumption of content re
 ## Non-Technical Reviews 
 
 ### [OtiumPath](https://otium.asymmetria.ai/){:target="_blank"}
++ Mar'26 Week 4 - A Case for Watching a Seemingly Obvious Midterm Election [Post]({% link _posts/2026-03-22-toms-take-week-4.md %}){: .btn .btn--success .btn--small}
 + Mar'26 Week 1 - Geopolitical Risk Premium [Post]({% link _posts/2026-03-01-toms-take-week-1.md %}){: .btn .btn--success .btn--small}
 + Feb'26 Week 4 - Citrini's 2028 Scenario: A (Scary) Compelling Story with a Nit on Timeline [Post]({% link _posts/2026-02-22-toms-take-week-4.md %}){: .btn .btn--success .btn--small}
 + Feb'26 Week 3 - When AI Automates Your Tasks, What Remains Determines Your Fate [Post]({% link _posts/2026-02-15-toms-take-week-3.md %}){: .btn .btn--success .btn--small}
